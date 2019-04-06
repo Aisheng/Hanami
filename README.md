@@ -1,0 +1,2 @@
+# Hanami
+Some common code
