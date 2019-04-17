@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hanami</string>
+    <string name="show_float_window">show float window</string>
 </resources>
